@@ -9,7 +9,7 @@
 </div>
 
 ## Anggota : 
-* [Rizki Sofyan](https://github.com/rizkisofyan)
+* [Mohamad Rizki Sofyan](https://github.com/rizkisofyan)
 * [M Aziz Muzaky](https://github.com/Kiryuu47)
 * [Rizman Nurrizki](https://github.com/Risman4205)
 * [M Sauzan Rizki A](https://github.com/zanrizkir)
@@ -40,10 +40,10 @@
 <details>
  <summary>Halaman Data Nilai</summary>
  
-* Sebelum ada data di proses 
+* Sebelum ada data yang di proses 
 ![image](https://user-images.githubusercontent.com/94037002/156863378-81d6cf87-4b0d-4d2f-b23b-af2fb79181b8.png)
  
-* sesudah ada data di proses
+* Sesudah ada data yang di proses
 ![image](https://user-images.githubusercontent.com/94037002/156863073-0949521f-b503-46cc-93c4-cce733699ebd.png)
 </details>
 
@@ -62,3 +62,7 @@ detail nilai seorang siswa dari sebelum dan sesudah di proses.
 </details>
 
 <br>
+
+
+### Agar Lebih Jelas
+Untuk lebih jelasnya bisa dilihat pada [video ini](https://user-images.githubusercontent.com/94037002/156864184-47d01ecc-9e59-460d-ba58-872f17606f05.mp4).
