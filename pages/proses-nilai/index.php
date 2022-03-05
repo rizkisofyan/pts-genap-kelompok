@@ -17,7 +17,7 @@
                 }
             </style>
         <?php endif?>
-        <title>Halaman Utama</title>
+        <title>Proses Data</title>
     </head>
     <body>
         <!-- Navbar -->
