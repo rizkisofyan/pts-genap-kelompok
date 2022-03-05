@@ -24,7 +24,7 @@
 <details>
  <summary>Halaman Utama</summary>
  
-![image](https://user-images.githubusercontent.com/94037002/156862445-536bb9a5-3c03-4c3c-ba34-379f3446a9ca.png)
+![image](https://user-images.githubusercontent.com/94037002/156864830-30ac2ca4-f3b2-436d-83fe-78ec363f2657.png)
 </details>
 
 <details>
