@@ -50,7 +50,7 @@
                         <h5>Nilai dihitung dengan ketentuan berikut</h5>
                         <div class="alert alert-info">
                             <ul>
-                                <li>Nilai Bulanan : 30%</li>
+                                <li>Nilai Bulanan : 35%</li>
                                 <li>Nilai PTS : 15%</li>
                                 <li>Nilai PAS : 20%</li>
                                 <li>Nilai Kehadiran : 30%</li>
